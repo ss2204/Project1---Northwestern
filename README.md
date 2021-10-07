@@ -1,3 +1,6 @@
 # Project1-test
-this is train repo. setup for multi-user workflow
-This is for project 1.
+Project 1 - Determining factors that impact the usage of BikeShare in New York City
+Group Mmebers : Michael Lapiana
+                Ishin Yavuz
+                Shreyansh Saraiya
+                David Park
